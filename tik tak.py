@@ -62,6 +62,6 @@ def gameplay():
             else:
                 setplayerchoice(player2_choise)
         gameboard()
-print("\t\t\t\t\twel-come tic tak game")
+print("\t\t\t\t\twel-come tic tac game")
 print("\t\t\t\t  -------------------------")
 gameplay()
